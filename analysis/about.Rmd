@@ -7,5 +7,5 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+
 This is a single-cell RNA-seq analysis project.
